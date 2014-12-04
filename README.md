@@ -28,7 +28,7 @@ List
 | **DIY / Glory to the sad Robots** | Hardware, Microcontrollers, Robotics| Skype | [bit.ly/robots-chat](http://bit.ly/robots-chat) | |
 | **Ember Chat**       | EmberJS                         | Skype | [tinyurl.com/skype-ember-ua](http://tinyurl.com/skype-ember-ua) | |
 | **Frontend UA**      | HTML5, CSS3, Javascript, ...    | [![Gitter](https://badges.gitter.im/Join Chat.svg)](http://frontendua.im) | [frontendua.im](http://frontendua.im) | |
-| **Go Lang**          | Go                              | Skype | [is.gd/0hu7AR](http://is.gd/0hu7AR) | |
+| **Go Language**      | Go                              | Skype | [is.gd/5Iti3p](http://is.gd/5Iti3p) | |
 | **JavaChat**         | Java, JVM                       | Skype | [bit.ly/javachatru](http://bit.ly/javachatru) | |
 | **Java talks BY**    | Java, JVM, Software Design      | Skype | [bit.ly/javatalks-by](http://bit.ly/javatalks-by) | |
 | **#javascript**      | javascript, nodejs, angularjs, ... | IRC | [learn.javascript.ru/chat](http://learn.javascript.ru/chat?nick=%D0%93%D0%BE%D1%81%D1%82%D1%8C) | |
